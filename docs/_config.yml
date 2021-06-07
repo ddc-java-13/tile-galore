@@ -10,7 +10,7 @@ titles_from_headings:
 
 title: "Tile Matching Game"
 description: "Tile Matching Game that randomly generates tiles for users to memorize and match"
-author: Victor Perez
+author:
   name: "Victor Perez"
 
 # Do not change the following line.
