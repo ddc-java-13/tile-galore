@@ -10,6 +10,7 @@ Construct tile sets from artwork images retrieved by querying one of several pub
 
 * People who would like a quick distraction 
     > I regularly had a break at work where i was left practically looking at the clock until my mandatory break was over. This game would be a great distraction for people in that situation such as i was to go ahead and kill some time really quickly so time doesn't feel as sluggish.
+
 ## Functionality
 
 * Creating randomly generated tiles with Color, Numbers or images in order for the user to memorize and match.
