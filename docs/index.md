@@ -1,35 +1,32 @@
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the Android app you propose to develop in this project.
+Construct tile sets from artwork images retrieved by querying one of several publicly accessible art-oriented repositories by keyword. Generate random tile arrangements from a selected tile set. In each turn, flip a pair of tiles: if the tiles match, the tiles are removed from the playing surface and the score increases; otherwise, the tiles are flipped face-down again. The time and the number of pair selections required to clear all tiles are recorded for display in a score summary screen.
 
 ## Intended users
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
+* People who would like a memory exercise 
 
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user needs to perform, and the benefit that will be obtained. The simplest user stories take the form 
+    > As someone who forgets important things this could be beneficial to people such as me retain memory before a test for example through memory excises offered by the tile game.
 
-> As a <type of intended user (_who_)> I want to <goal (_what_)> so that <benefit (_why_).
-
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
-
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
-
-* People who like to use randomness in their decision making.
-
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
-
+* People who would like a quick distraction 
+    > I regularly had a break at work where i was left practically looking at the clock until my mandatory break was over. This game would be a great distraction for people in that situation such as i was to go ahead and kill some time really quickly so time doesn't feel as sluggish.
 ## Functionality
 
-List (using a bullet list---or ordered list, if order is relevant) the key functional aspects that will be provided by the app---i.e. tell us what the user will be able to do using the app. This should not simply be a re-statement of the [summary](#summary), but should instead provide a more specific articulation of the functionality and user experience. 
+* Creating randomly generated tiles with Color, Numbers or images in order for the user to memorize and match.
+* Being able to show the user their progress score wise and level wise relative to previous attempts to encourage players to beat previous attempts.
+* Helping players with memory exercises in order to improve memory function and ability to retain information.
 
 ## Persistent data
 
-List, in general terms and using a bullet list, what content will be stored on the Android device. This should include any information that users of your app would expect to be maintained (i.e. without connection to a server) across multiple sessions of use. 
-    
+* A record of previous attempts and the highest level reached
+* A list of scores from previous attempts arranged highest to lowest    
+
 ## Device/external services
 
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here using a bullet list. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Movie Database, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
+TBD
 
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+* Being able to choose a greater difficulty and having more complex patterns as a result 
+* Being able to connect to the internet and compare scores with others 
+* Having images of known places around your location be on the image of some tiles depending on GPS location
