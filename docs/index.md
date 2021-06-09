@@ -9,7 +9,7 @@ Construct tile sets from artwork images retrieved by querying one of several pub
     > As a Warehouse employee trying to make sense of the chaotic package sorting lines in a fast pace environment I sometimes need a mental break and need to tune out to a game to give the internal battery a bit of time to recover.
 
 * Students looking to exercise their brains 
-    > Being a coding bootcamp student I like to play games that will challenge my brain and have me memorize things to keep my brain sharp in order to help me sharpen my coding skills
+    > Being a coding bootcamp student I like to play games that will challenge my brain and have me memorize things to keep my brain sharp in order to help me sharpen my coding skills.
 
 ## Functionality
 
