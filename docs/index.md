@@ -4,12 +4,12 @@ Construct tile sets from artwork images retrieved by querying one of several pub
 
 ## Intended users
 
-* People who would like a memory exercise 
+* Laborers looking for a quick escape 
 
-    > As someone who forgets important things this could be beneficial to people such as me retain memory before a test for example through memory excises offered by the tile game.
+    > As a Warehouse employee trying to make sense of the chaotic package sorting lines in a fast pace environment I sometimes need a mental break and need to tune out to a game to give the internal battery a bit of time to recover.
 
-* People who would like a quick distraction 
-    > I regularly had a break at work where i was left practically looking at the clock until my mandatory break was over. This game would be a great distraction for people in that situation such as i was to go ahead and kill some time really quickly so time doesn't feel as sluggish.
+* Students looking to exercise their brains 
+    > Being a coding bootcamp student I like to play games that will challenge my brain and have me memorize things to keep my brain sharp in order to help me sharpen my coding skills
 
 ## Functionality
 
