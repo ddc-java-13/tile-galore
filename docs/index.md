@@ -13,14 +13,18 @@ Construct tile sets from artwork images retrieved by querying one of several pub
 
 ## Functionality
 
-* Creating randomly generated tiles with Color, Numbers or images in order for the user to memorize and match.
-* Being able to show the user their progress score wise and level wise relative to previous attempts to encourage players to beat previous attempts.
-* Helping players with memory exercises in order to improve memory function and ability to retain information.
+* Creating randomly generated tiles with Color, Numbers or images.
+* Show the user their top 10 most recent scores by difficulty.
+* Show the user their most recent 10 scores by difficulty. 
+* Memory exercises, basic or complex based on difficulty chosen. 
 
 ## Persistent data
 
-* A record of previous attempts and the highest level reached
-* A list of scores from previous attempts arranged highest to lowest    
+For every game played:
+* Level
+* Difficulty completed on
+* Time it takes to complete 
+* Number of correct/incorrect guesses 
 
 ## Device/external services
 
@@ -28,6 +32,5 @@ TBD
 
 ## Stretch goals/possible enhancements 
 
-* Being able to choose a greater difficulty and having more complex patterns as a result 
-* Being able to connect to the internet and compare scores with others 
+* Being able to choose a greater difficulty and having more complex patterns as a result
 * Having images of known places around your location be on the image of some tiles depending on GPS location
