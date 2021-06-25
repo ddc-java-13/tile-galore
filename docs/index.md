@@ -1,6 +1,6 @@
 ---
 title: Overview
-subtitle: Project description and status
+subtitle: A game utilizing tiles where the player attempts to match as many as they can
 menu: Overview
 order: 0
 ---
