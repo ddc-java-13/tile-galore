@@ -14,3 +14,5 @@ order: 30
 ## [Database Class](https://github.com/ddc-java-13/tile-galore/blob/main/app/src/main/java/edu/cnm/deepdive/tilematch/service/TileGaloreDatabase.java)
 
 ## [Data Definition Language (DDL) code](ddl.md)
+
+## [PoJo Class](https://github.com/ddc-java-13/tile-galore/tree/main/app/src/main/java/edu/cnm/deepdive/tilematch/model/pojo)
