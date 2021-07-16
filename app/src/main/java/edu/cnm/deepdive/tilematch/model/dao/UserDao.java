@@ -42,7 +42,7 @@ public interface UserDao {
     @Delete
     Single<Integer> delete(Collection<? extends User> user);
 
-    @Query("SELECT * FROM game WHERE user_id = :userId")
-    LiveData<User> select(long userId);
+    @Query("SELECT * FROM user WHERE user_id = :userId")
+    LiveData<User> selectById(long userId);
 
 }
