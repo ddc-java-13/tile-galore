@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.tilematch.model.dao;
+package edu.cnm.deepdive.tilegalore.model.dao;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
@@ -6,8 +6,7 @@ import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
-import edu.cnm.deepdive.tilematch.model.entity.Game;
-import edu.cnm.deepdive.tilematch.model.entity.User;
+import edu.cnm.deepdive.tilegalore.model.entity.User;
 import io.reactivex.Single;
 import java.util.Collection;
 import java.util.List;

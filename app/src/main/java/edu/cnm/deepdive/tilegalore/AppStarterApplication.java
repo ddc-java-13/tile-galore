@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.tilematch;
+package edu.cnm.deepdive.tilegalore;
 
 import android.app.Application;
 import com.facebook.stetho.Stetho;

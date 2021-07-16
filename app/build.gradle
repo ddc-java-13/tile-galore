@@ -6,7 +6,7 @@ android {
     compileSdkVersion = 30
 
     defaultConfig {
-        applicationId "edu.cnm.deepdive.tilematch"
+        applicationId "edu.cnm.deepdive.tilegalore"
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 1

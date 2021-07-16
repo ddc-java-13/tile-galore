@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.tilematch;
+package edu.cnm.deepdive.tilegalore;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.tilematch.service;
+package edu.cnm.deepdive.tilegalore.service;
 
 import android.app.Application;
 import androidx.room.Database;
@@ -6,11 +6,11 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import androidx.room.TypeConverter;
 import androidx.room.TypeConverters;
-import edu.cnm.deepdive.tilematch.model.dao.GameDao;
-import edu.cnm.deepdive.tilematch.model.dao.UserDao;
-import edu.cnm.deepdive.tilematch.model.entity.Game;
-import edu.cnm.deepdive.tilematch.model.entity.User;
-import edu.cnm.deepdive.tilematch.service.TileGaloreDatabase.Converters;
+import edu.cnm.deepdive.tilegalore.model.dao.GameDao;
+import edu.cnm.deepdive.tilegalore.model.dao.UserDao;
+import edu.cnm.deepdive.tilegalore.model.entity.Game;
+import edu.cnm.deepdive.tilegalore.model.entity.User;
+import edu.cnm.deepdive.tilegalore.service.TileGaloreDatabase.Converters;
 import java.util.Date;
 
 @Database(

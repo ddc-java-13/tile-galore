@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.tilematch;
+package edu.cnm.deepdive.tilegalore;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

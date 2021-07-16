@@ -1,7 +1,6 @@
-package edu.cnm.deepdive.tilematch.model.pojo;
+package edu.cnm.deepdive.tilegalore.model.pojo;
 
 import androidx.room.TypeConverter;
-import edu.cnm.deepdive.tilematch.model.entity.User;
 
 public enum SkillLevel {
   EASY, SEASONED, VETERAN;

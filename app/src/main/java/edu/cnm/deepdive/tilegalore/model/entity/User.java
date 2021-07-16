@@ -1,10 +1,10 @@
-package edu.cnm.deepdive.tilematch.model.entity;
+package edu.cnm.deepdive.tilegalore.model.entity;
 
 import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
-import edu.cnm.deepdive.tilematch.model.pojo.SkillLevel;
+import edu.cnm.deepdive.tilegalore.model.pojo.SkillLevel;
 import java.util.Date;
 
 
