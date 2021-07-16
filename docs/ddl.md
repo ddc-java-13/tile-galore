@@ -37,3 +37,5 @@ REPLACE INTO room_master_table (id, identity_hash)
 VALUES (42, 'd388c1c1dc9bedf5b4dc00473ccf6d51');
 ```
 
+[`ddl.sql`](sql/ddl.sql)
+
