@@ -15,4 +15,4 @@ order: 30
 
 ## [Data Definition Language (DDL) code](ddl.md)
 
-## [PoJo Class](https://github.com/ddc-java-13/tile-galore/tree/main/app/src/main/java/edu/cnm/deepdive/tilematch/model/pojo)
+## [Pojo](https://github.com/ddc-java-13/tile-galore/tree/main/app/src/main/java/edu/cnm/deepdive/tilematch/model/pojo)
